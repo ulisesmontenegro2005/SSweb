@@ -1,0 +1,16 @@
+body{
+    backdrop-filter: blur(10px);
+}
+
+footer{
+    height: auto;
+}
+
+body {
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    background-image: url(./../../imgs/23.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; }
+  
