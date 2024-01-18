@@ -42,8 +42,15 @@ button {
       border-radius: 10px;
       box-shadow: 1px 1px 1px #DCDCDC; }
 
-.linkLogo img {
-  width: 125px; }
+.linkLogo {
+  width: 125px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.linkLogo img{
+    width:70px;
+}
 
 nav {
   z-index: 1000;
